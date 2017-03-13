@@ -1,0 +1,454 @@
+/* Mozilla Firefox */
+/* Opera */
+/* Webkit (Safari/Chrome 10) */
+/* Webkit (Chrome 11+) */
+/* W3C Markup */
+.title {
+  text-align: center;
+}
+
+#footer a:link {
+  color: #000;
+}
+
+#footer a:visited {
+  color: #000;
+}
+
+#footer a:hover {
+  color: #e92f20;
+}
+
+body {
+  background: #80DEEA;
+}
+
+.box {
+  position: relative;
+  margin: auto;
+  display: block;
+  /*optional background or border*/
+  margin-top: -2%;
+  width: 600px;
+  height: 420px;
+  background: none;
+}
+
+.plate {
+  position: absolute;
+  top: 5.5%;
+  left: 13%;
+  width: 75%;
+  height: 87%;
+  background: radial-gradient(ellipse farthest-corner at center, #f6f8f9 0%, #e5ebee 50%, #d7dee3 51%, #f5f7f9 100%);
+  border-radius: 50%;
+}
+
+.base {
+  position: absolute;
+  top: 29%;
+  left: 20%;
+  width: 68%;
+  height: 37%;
+  background: #6b3d1c;
+  border-bottom: #6b3d1c 7px solid;
+  border-radius: 15%;
+  -webkit-clip-path: polygon(0 0, 84% 0, 75% 100%, 0% 100%);
+  clip-path: polygon(0 0, 84% 0, 75% 100%, 0% 100%);
+}
+
+.base-copy {
+  position: absolute;
+  width: 98%;
+  height: 100%;
+  background: #c6935e;
+  border-radius: 15%;
+  -webkit-clip-path: polygon(0 0, 84% 0, 75% 100%, 0% 100%);
+  clip-path: polygon(0 0, 84% 0, 75% 100%, 0% 100%);
+}
+
+.cheese {
+  position: absolute;
+  width: 96.5%;
+  height: 87%;
+  background: #f8dbaf;
+  border-bottom: #f8dbaf 7px solid;
+  border-radius: 15%;
+  -webkit-clip-path: polygon(0 0, 84% 0, 75% 100%, 0% 100%);
+  clip-path: polygon(0 0, 84% 0, 75% 100%, 0% 100%);
+}
+
+.cheese-copy {
+  position: absolute;
+  width: 96.5%;
+  height: 84%;
+  background: #ffeac1;
+  border-radius: 15%;
+  -webkit-clip-path: polygon(0 0, 84% 0, 75% 100%, 0% 100%);
+  clip-path: polygon(0 0, 84% 0, 75% 100%, 0% 100%);
+}
+
+.cream {
+  position: absolute;
+  width: 97.5%;
+  height: 47%;
+  background: #F06292;
+  border-bottom: #F06292 7px solid;
+  border-radius: 15%;
+  -webkit-clip-path: polygon(0 0, 84% 0, 75% 100%, 0% 100%);
+  clip-path: polygon(0 0, 84% 0, 75% 100%, 0% 100%);
+}
+
+.cream-copy {
+  position: absolute;
+  width: 99.5%;
+  height: 82%;
+  background: #ffbfd4;
+  border-radius: 15%;
+  -webkit-clip-path: polygon(0 0, 84% 0, 75% 100%, 0% 100%);
+  clip-path: polygon(0 0, 84% 0, 75% 100%, 0% 100%);
+}
+
+.whipped-cream-pink-1 {
+  position: absolute;
+  top: -7%;
+  left: 70%;
+  width: 95.5%;
+  height: 48%;
+  background: #F06292;
+  border-radius: 50%;
+}
+
+.whipped-cream-pink-2 {
+  position: absolute;
+  top: 19%;
+  left: 70%;
+  width: 95.5%;
+  height: 48%;
+  background: #F06292;
+  border-radius: 50%;
+}
+
+.whipped-cream-pink-3 {
+  position: absolute;
+  top: 40%;
+  left: 70%;
+  width: 97.5%;
+  height: 50%;
+  background: #F06292;
+  border-radius: 50%;
+}
+
+.whipped-cream {
+  position: absolute;
+  left: 3%;
+  width: 91%;
+  height: 93%;
+  background: #FFFDE7;
+  border-radius: 50%;
+}
+
+.cherry {
+  position: absolute;
+  width: 7%;
+  height: 11%;
+  background: #e92f20;
+  border-bottom: #7f0f17 4px solid;
+  border-right: #7f0f17 4px solid;
+  border-radius: 50%;
+}
+.cherry.cherry-0 {
+  top: 0%;
+  left: 0%;
+}
+.cherry.cherry-1 {
+  top: 4%;
+  left: 9%;
+}
+.cherry.cherry-2 {
+  top: 2%;
+  left: 16%;
+}
+.cherry.cherry-3 {
+  top: 0%;
+  left: 23%;
+}
+.cherry.cherry-4 {
+  top: 5%;
+  left: 32%;
+}
+.cherry.cherry-5 {
+  top: 0%;
+  left: 38%;
+}
+.cherry.cherry-6 {
+  top: 1%;
+  left: 47%;
+}
+.cherry.cherry-7 {
+  top: 3%;
+  left: 54%;
+}
+.cherry.cherry-8 {
+  top: 1%;
+  left: 60%;
+}
+.cherry.cherry-9 {
+  top: 13%;
+  left: 2%;
+}
+.cherry.cherry-10 {
+  top: 13%;
+  left: 8%;
+}
+.cherry.cherry-11 {
+  top: 17%;
+  left: 14%;
+}
+.cherry.cherry-12 {
+  top: 15%;
+  left: 22%;
+}
+.cherry.cherry-13 {
+  top: 16%;
+  left: 25%;
+}
+.cherry.cherry-14 {
+  top: 17%;
+  left: 33%;
+}
+.cherry.cherry-15 {
+  top: 15%;
+  left: 41%;
+}
+.cherry.cherry-16 {
+  top: 13%;
+  left: 45%;
+}
+.cherry.cherry-17 {
+  top: 17%;
+  left: 51%;
+}
+.cherry.cherry-18 {
+  top: 13%;
+  left: 63%;
+}
+.cherry.cherry-19 {
+  top: 24%;
+  left: 1%;
+}
+.cherry.cherry-20 {
+  top: 26%;
+  left: 9%;
+}
+.cherry.cherry-21 {
+  top: 24%;
+  left: 14%;
+}
+.cherry.cherry-22 {
+  top: 26%;
+  left: 23%;
+}
+.cherry.cherry-23 {
+  top: 25%;
+  left: 29%;
+}
+.cherry.cherry-24 {
+  top: 27%;
+  left: 35%;
+}
+.cherry.cherry-25 {
+  top: 22%;
+  left: 43%;
+}
+.cherry.cherry-26 {
+  top: 26%;
+  left: 50%;
+}
+.cherry.cherry-27 {
+  top: 23%;
+  left: 61%;
+}
+
+.cherry-bullet {
+  position: absolute;
+  top: 30%;
+  left: 70%;
+  width: 8%;
+  height: 8%;
+  background: #FFFDE7;
+  border-bottom: #CFD8DC 1px solid;
+  border-right: #CFD8DC 1px solid;
+  border-radius: 50%;
+}
+
+.cherry-stick {
+  position: absolute;
+  top: 14%;
+  left: 47%;
+  width: 13%;
+  height: 16%;
+  border: green 2px solid;
+  border-radius: 50%;
+  -webkit-clip-path: circle(50% at 98% 98%);
+  clip-path: circle(50% at 98% 98%);
+}
+
+.syrup-up-1 {
+  position: absolute;
+  top: 12.5%;
+  left: 10%;
+  width: 8%;
+  height: 80%;
+  background: rgba(233, 47, 32, 0.5);
+  border-radius: 50%;
+  z-index: 1;
+  -webkit-clip-path: circle(47.5% at 51% 0);
+  clip-path: circle(47.5% at 51% 0);
+}
+
+.syrup-bottom-1 {
+  position: absolute;
+  top: -45%;
+  left: 10%;
+  width: 8%;
+  height: 120%;
+  background: rgba(233, 47, 32, 0.5);
+  border-bottom: rgba(127, 15, 23, 0.4) 8px solid;
+  border-radius: 50%;
+  z-index: 2;
+  -webkit-clip-path: circle(47.5% at 50% 100%);
+  clip-path: circle(47.5% at 50% 100%);
+}
+
+.syrup-up-2 {
+  position: absolute;
+  top: 5.5%;
+  left: 23%;
+  width: 8%;
+  height: 100%;
+  background: rgba(233, 47, 32, 0.5);
+  border-radius: 50%;
+  z-index: 1;
+  -webkit-clip-path: circle(47.5% at 51% 0);
+  clip-path: circle(47.5% at 51% 0);
+}
+
+.syrup-bottom-2 {
+  position: absolute;
+  top: -32%;
+  left: 23%;
+  width: 8%;
+  height: 100%;
+  background: rgba(233, 47, 32, 0.5);
+  border-bottom: rgba(127, 15, 23, 0.4) 8px solid;
+  border-radius: 50%;
+  z-index: 2;
+  -webkit-clip-path: circle(47.5% at 50% 100%);
+  clip-path: circle(47.5% at 50% 100%);
+}
+
+.syrup-up-3 {
+  position: absolute;
+  top: 22%;
+  left: 30.5%;
+  width: 8%;
+  height: 50%;
+  background: rgba(233, 47, 32, 0.5);
+  border-radius: 50%;
+  z-index: 1;
+  -webkit-clip-path: circle(47.5% at 51% 0);
+  clip-path: circle(47.5% at 51% 0);
+}
+
+.syrup-bottom-3 {
+  position: absolute;
+  top: -110%;
+  left: 30.5%;
+  width: 8%;
+  height: 220%;
+  background: rgba(233, 47, 32, 0.5);
+  border-bottom: rgba(127, 15, 23, 0.4) 8px solid;
+  border-radius: 50%;
+  z-index: 2;
+  -webkit-clip-path: circle(47.5% at 50% 100%);
+  clip-path: circle(47.5% at 50% 100%);
+}
+
+.syrup-bottom-plate-3 {
+  position: absolute;
+  top: 32%;
+  left: 42.2%;
+  width: 2.5%;
+  height: 50%;
+  background: rgba(233, 47, 32, 0.5);
+  border-bottom: rgba(127, 15, 23, 0.4) 8px solid;
+  border-radius: 50%;
+  z-index: 0;
+}
+
+.syrup-up-4 {
+  position: absolute;
+  top: 11%;
+  left: 35.5%;
+  width: 8%;
+  height: 85%;
+  background: rgba(233, 47, 32, 0.5);
+  border-radius: 50%;
+  z-index: 1;
+  -webkit-clip-path: circle(47.5% at 51% 0);
+  clip-path: circle(47.5% at 51% 0);
+}
+
+.syrup-bottom-4 {
+  position: absolute;
+  top: -110%;
+  left: 35.5%;
+  width: 8%;
+  height: 220%;
+  background: rgba(233, 47, 32, 0.5);
+  border-bottom: rgba(127, 15, 23, 0.4) 8px solid;
+  border-radius: 50%;
+  z-index: 2;
+  -webkit-clip-path: circle(47.5% at 50% 100%);
+  clip-path: circle(47.5% at 50% 100%);
+}
+
+.syrup-bottom-plate-4 {
+  position: absolute;
+  top: 32%;
+  left: 45%;
+  width: 3.5%;
+  height: 40%;
+  background: rgba(233, 47, 32, 0.5);
+  border-bottom: rgba(127, 15, 23, 0.4) 8px solid;
+  border-radius: 50%;
+  z-index: 0;
+}
+
+.syrup-up-5 {
+  position: absolute;
+  top: 11%;
+  left: 46.5%;
+  width: 8%;
+  height: 85%;
+  background: rgba(233, 47, 32, 0.5);
+  border-radius: 50%;
+  z-index: 1;
+  -webkit-clip-path: circle(47.5% at 51% 0);
+  clip-path: circle(47.5% at 51% 0);
+}
+
+.syrup-bottom-5 {
+  position: absolute;
+  top: -79%;
+  left: 46.5%;
+  width: 8%;
+  height: 170%;
+  background: rgba(233, 47, 32, 0.5);
+  border-bottom: rgba(127, 15, 23, 0.4) 8px solid;
+  border-radius: 50%;
+  z-index: 2;
+  -webkit-clip-path: circle(47.5% at 50% 100%);
+  clip-path: circle(47.5% at 50% 100%);
+}
